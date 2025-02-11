@@ -1,1 +1,5 @@
-Problem Solving
+### Problem Solving
+
+#### JAVA
+
+1024, 1427
