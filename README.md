@@ -1,7 +1,7 @@
 Problem Solving
 
 # 언어별 PS
-### [JAVA](https://github.com/alstjr6211/ProbelmSolve/tree/JAVA)
+### [JAVA](https://github.com/alstjr6211/ProblemSolve/tree/JAVA)
 JAVA 풀이
 
 
