@@ -28,4 +28,3 @@ for i in range(10):
   if (count % 10 == check):
     print(i)
     break
-
